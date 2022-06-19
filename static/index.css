@@ -1,0 +1,21 @@
+
+body {
+    margin: auto;
+    font-family: Helvetica, sans-serif;
+    font-weight: 300;
+    color: rgb(250, 250, 250);
+    font-size: 1.2rem;
+    text-align: center;
+    z-index: 1;
+    animation: fadein 2s;
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+    position: relative;
+
+}
+
+/* Animation for fading */
+@keyframes fadein {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
