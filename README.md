@@ -7,4 +7,4 @@ The Halo API can be found at https://developer.haloapi.com/docs/services/
 
 Here is an image of the entire project!
 
-<img width="1440" alt="screenshot" src="[https://user-images.githubusercontent.com/91798447/158961405-1746029b-6c1c-443c-94b9-48719e75ab1f.png](https://ibb.co/rZLkvJp)">
+![Image of Halo 5 Missions]([https://ibb.co/rZLkvJp](https://i.ibb.co/THncr50/halo-5-mission-viewer.png))
